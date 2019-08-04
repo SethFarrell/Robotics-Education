@@ -21,12 +21,11 @@ Computer Science
   - Algorithms
 * ROS
 
-* Navigation
+* Perception/Navigation
+    - Computer Vision
     - SLAM
     - Localization
     - Path Planning
-* Perception
-    - Computer Vision
     
 Mechanical Engineering
 * Kinematics & Dynamics
