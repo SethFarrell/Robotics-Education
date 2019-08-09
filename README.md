@@ -49,3 +49,28 @@
 
 <a href="http://www.theconstructsim.com/construct-learn-develop-robots-using-ros/robotigniteacademy_learnros-2/">ROS (Ignite Academy)</a>
 
+
+edX Courses
+
+<a href="https://www.edx.org/course/robotics">Robotics (edX)</a>
+
+<a href="https://www.edx.org/course/autonomous-mobile-robots-2">Autonomous Mobile Robots (edX)</a>
+
+<a href="https://www.edx.org/micromasters/pennx-robotics">Robotics MicroMasters (edX)</a>
+
+<a href="https://www.edx.org/course/robotics-foundations-i-robot-modelling">Robotics Foundations I (edX)</a>
+
+<a href="https://www.edx.org/course/underactuated-robotics-mitx-6-832x-0">Underactuated Robotics (edX)</a>
+
+<a href="https://www.edx.org/course/robot-mechanics-control-part-i-snux-snu446-345-1x">Robot Mechanics and Control I (edX)</a>
+
+<a href="https://www.edx.org/course/robot-mechanics-control-part-ii-snux-snu446-345-2x">Robot Mechanics and Control II (edX)</a>
+
+<a href="https://www.edx.org/course/cognitive-neuroscience-robotics-part-osakaux-cnr101x">Cognitive Neuroscience Robotics (edX)</a>
+
+<a href="https://www.edx.org/course/autonomous-navigation-flying-robots-tumx-autonavx-0">Autonomous Navigation for Flying Robots (edX)</a>
+
+
+
+
+
