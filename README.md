@@ -50,7 +50,7 @@
 <a href="http://www.theconstructsim.com/construct-learn-develop-robots-using-ros/robotigniteacademy_learnros-2/">ROS (Ignite Academy)</a>
 
 
-edX Courses
+<b> edX Courses </b>
 
 <a href="https://www.edx.org/course/robotics">Robotics (edX)</a>
 
@@ -69,6 +69,24 @@ edX Courses
 <a href="https://www.edx.org/course/cognitive-neuroscience-robotics-part-osakaux-cnr101x">Cognitive Neuroscience Robotics (edX)</a>
 
 <a href="https://www.edx.org/course/autonomous-navigation-flying-robots-tumx-autonavx-0">Autonomous Navigation for Flying Robots (edX)</a>
+
+<b> Coursera Courses </b>
+
+<a href="https://www.coursera.org/specializations/modernrobotics">Modern Robotics Specialization</a>
+
+<a href="https://www.coursera.org/specializations/robotics">Robotics Specialization</a>
+
+<a href="https://www.coursera.org/specializations/tensorflow-in-practice">Tensorflow in Practice Specialization</a>
+
+<a href="https://www.coursera.org/specializations/deep-learning">Deep Learning Specialization</a>
+
+<a href="https://www.coursera.org/learn/machine-learning">Machine Learning Course</a>
+
+<a href="https://www.coursera.org/learn/mobile-robot">Control of Mobile Robots Course</a>
+
+<a href="https://www.coursera.org/specializations/self-driving-cars">Self-Driving Cars Specialization</a>
+
+<a href="https://www.coursera.org/specializations/aml">Advanced Machine Learning Course</a>
 
 
 
