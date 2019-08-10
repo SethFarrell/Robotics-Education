@@ -70,6 +70,7 @@
 
 <a href="https://www.edx.org/course/autonomous-navigation-flying-robots-tumx-autonavx-0">Autonomous Navigation for Flying Robots (edX)</a>
 
+
 <b> Coursera Courses </b>
 
 <a href="https://www.coursera.org/specializations/modernrobotics">Modern Robotics Specialization</a>
@@ -89,6 +90,11 @@
 <a href="https://www.coursera.org/specializations/aml">Advanced Machine Learning Course</a>
 
 
+<b> Udacity Courses </b>
+
+<a href="https://www.udacity.com/course/computer-vision-nanodegree--nd891#">Computer Vision Nanodegree</a>
+
+<a href="https://www.udacity.com/course/introduction-to-computer-vision--ud810">Intro to Computer Vision</a>
 
 
 
